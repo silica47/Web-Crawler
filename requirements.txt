@@ -1,0 +1,5 @@
+requests
+re
+urllib
+argparse
+pyfiglet
